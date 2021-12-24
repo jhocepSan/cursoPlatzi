@@ -4,3 +4,11 @@ p{
     color: brown;
     
 }
+
+#cabecera{
+    background: #33A;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    padding: 1px;
+}
